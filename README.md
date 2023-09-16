@@ -1,4 +1,4 @@
-# [printf](https://github.com/DamilolaALX/printf)
+ # [printf](https://github.com/DamilolaALX/printf)
 
 This repository contains the collaborative work of a team project for the ALX Software Engineering Course in the first year. The project focuses on implementing a custom printf function, a fundamental function in the C programming language used for formatted output.
 
@@ -82,13 +82,13 @@ S : prints the string
   - p : int input is converted to a pointer address
 8. The big print gives and the small print takes away
 * Handle the following flag characters for non-custom conversion specifiers:
-  - + : adds a + in front of signed positive numbers and a - in front of signed negative numbers
+  - '+' : adds a + in front of signed positive numbers and a - in front of signed negative numbers
   - space : same as +, but adds a space (is overwritten by +)
   - : adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X for x or X conversions
 [9. Sarcasm is lost in print]
 * Handle the following length modifiers for non-custom conversion specifiers:
- - l : converts d, i, u, o, x, X conversions in short signed or unsigned ints
- - h : converts d, i, u, o, x, X conversions in long signed or unsigned ints
+  - l : converts d, i, u, o, x, X conversions in short signed or unsigned ints
+  - h : converts d, i, u, o, x, X conversions in long signed or unsigned ints
 [10. Print some money and give it to us for the rain forests]
 * Handle the field width for non-custom conversion specifiers.
 [11. The negative is the equivalent of the composer's score, and the print the performance]
