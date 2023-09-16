@@ -5,9 +5,10 @@ This repository contains the collaborative work of a team project for the ALX So
 ## TABLE OF CONTENTS
 * Introduction
 * Project Goals
-* Contributors
 * Usage
 * Testing
+* Tasks
+* Contributors
 * Acknowledgements
 
 ### INTRODUCTION:
@@ -20,11 +21,6 @@ The primary objectives of this project include:
 * Replicating the core functionalities of the standard printf in C.
 * Enhancing or modifying the printf function to meet specific project requirements.
 * Collaborative teamwork and learning through real-world application of software engineering concepts.
-
-### CONTRIBUTORS:
-This project is a collaborative effort by the following contributors:
-
-[Adegunle damilola](https://github.com/DamilolaALX)
 
 ### USAGE
 To use the custom printf function, follow these steps:
@@ -52,13 +48,13 @@ To run the tests for the printf function, follow these steps:
 * Compile the test files.
 * Run the compiled test executable.
 
-## Tasks
+## TASKS
 These are all the tasks contained in this project.
 
 [0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life]
 * Write a function that produces output according to format.
-* 	c : converts input into a character
-s : converts input into a string
+  - c : converts input into a character
+* s : converts input into a string
 [1. Education is when you read the fine print. Experience is what you get if you don't]
 Handle the following conversion specifiers:
 d : converts input into a base 10 integer
@@ -108,6 +104,11 @@ Handle the following custom conversion specifier:
 R : prints the rot13'ed string
 [16. * ]
 All the above options work well together.
+
+### CONTRIBUTORS:
+This project is a collaborative effort by the following contributors:
+
+[Adegunle damilola](https://github.com/DamilolaALX)
 
 
 ## ACKNOWLEDGEMENT
