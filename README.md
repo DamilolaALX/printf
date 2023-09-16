@@ -55,17 +55,17 @@ To run the tests for the printf function, follow these steps:
 ## Tasks
 These are all the tasks contained in this project.
 
-0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
+[0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life]
 * Write a function that produces output according to format.
 * 	c : converts input into a character
 s : converts input into a string
-1. Education is when you read the fine print. Experience is what you get if you don't
+[1. Education is when you read the fine print. Experience is what you get if you don't]
 Handle the following conversion specifiers:
 d : converts input into a base 10 integer
 i : converts input into an integer
-2. Just because it's in print doesn't mean it's the gospel
+[2. Just because it's in print doesn't mean it's the gospel]
 Create a man page for your function
-3. With a face like mine, I do better in print
+3. [With a face like mine, I do better in print]
 Handle the following conversion specifiers:
 b : the unsigned int argument is converted to binary
 4. What one has not experienced, one will never understand in print
@@ -87,7 +87,7 @@ p : int input is converted to a pointer address
 Handle the following flag characters for non-custom conversion specifiers:
 + : adds a + in front of signed positive numbers and a - in front of signed negative numbers
 space : same as +, but adds a space (is overwritten by +)
-# : adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X for x or X conversions
+ : adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X for x or X conversions
 [9. Sarcasm is lost in print]
 Handle the following length modifiers for non-custom conversion specifiers:
 l : converts d, i, u, o, x, X conversions in short signed or unsigned ints
