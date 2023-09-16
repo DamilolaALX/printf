@@ -74,7 +74,7 @@ int _printf(const char *format, ...)
 					}
 				default:
 					{
-						count += printf("Unknown:[%%%c]", *format);
+						count += printf("%%r", *format);
 						break;
 					}
 			}
