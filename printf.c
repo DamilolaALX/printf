@@ -72,6 +72,10 @@ int _printf(const char *format, ...)
 						count += printf("%%");
 						break;
 					}
+				case 'b':
+					{
+						count += printf("%b");
+					}
 				default:
 					{
 						count += printf("%%r", *format);
