@@ -26,8 +26,7 @@ This project is a collaborative effort by the following contributors:
 
 [Adegunle damilola](https://github.com/DamilolaALX)
 
-...
-Usage
+### USAGE
 To use the custom printf function, follow these steps:
 
 * Clone this repository to your local machine.
@@ -36,6 +35,7 @@ To use the custom printf function, follow these steps:
 
 Example usage:
 # c
+```
 #include "printf.h"
 
 int main()
@@ -43,6 +43,7 @@ int main()
     printf("Hello, world!\n");
         return (0);
 }
+```
 	
 ### TESTING:
 To run the tests for the printf function, follow these steps:
@@ -52,4 +53,4 @@ To run the tests for the printf function, follow these steps:
 * Run the compiled test executable.
 
 ## ACKNOWLEDGEMENT
-We would like to thank the ALX Software Engineering Course for providing the opportunity to work on this project and enhance our skills in software development. 
+We would like to thank the ALX Software Engineering Course for providing the opportunity to work on this project and enhance our skills in software development.
