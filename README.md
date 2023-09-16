@@ -58,8 +58,8 @@ These are all the tasks contained in this project.
 
 [1. Education is when you read the fine print. Experience is what you get if you don't](https://github.com/DamilolaALX/printf/blob/master/printf.c)
 * Handle the following conversion specifiers:
-	- d : converts input into a base 10 integer
-	- i : converts input into an integer
+  - d : converts input into a base 10 integer
+ - i : converts input into an integer
 [2. Just because it's in print doesn't mean it's the gospel]
 * Create a man page for your function
 3. [With a face like mine, I do better in print]
