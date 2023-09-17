@@ -49,7 +49,7 @@ To run the tests for the printf function, follow these steps:
 * Run the compiled test executable.
 
 ## TASKS
-These are all the tasks contained in this project.
+These are all the tasks contained in this project. The completed ones are linked below.
 
 [0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life]
 * Write a function that produces output according to format.
@@ -116,7 +116,8 @@ These are all the tasks contained in this project.
 ### CONTRIBUTORS:
 This project is a collaborative effort by the following contributors:
 
-[Adegunle damilola](https://github.com/DamilolaALX)
+[ADEGUNLE DAMILOLA](https://github.com/DamilolaALX)
+[NATHANIEL OGBADA](https://github.com/OGBADS)
 
 
 ## ACKNOWLEDGEMENT
